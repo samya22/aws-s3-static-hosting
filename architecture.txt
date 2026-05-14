@@ -1,0 +1,5 @@
+User Browser
+      ↓
+Amazon S3 Bucket
+      ↓
+Static Website Hosting
